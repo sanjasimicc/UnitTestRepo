@@ -1,0 +1,11 @@
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/bin/Debug/net8.0/PrimeService.deps.json
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/bin/Debug/net8.0/PrimeService.dll
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/bin/Debug/net8.0/PrimeService.pdb
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/obj/Debug/net8.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfoInputs.cache
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfo.cs
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/obj/Debug/net8.0/PrimeService.csproj.CoreCompileInputs.cache
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/obj/Debug/net8.0/PrimeService.dll
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/obj/Debug/net8.0/PrimeService.pdb
+/home/sigmoid/unit-testing-using-dotnet/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
